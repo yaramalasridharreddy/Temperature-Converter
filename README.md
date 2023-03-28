@@ -1,2 +1,2 @@
 # Temperature-Converter
-OIBSIP
+Conversion table from Fahrenheit to Celsius, and a converter as well
